@@ -4,6 +4,8 @@ https://ngrx.io/docs
 
 ![NgRx](https://github.com/luiscoco/AngularAdvance_NgRXDemo2/assets/32194879/11de0e81-673c-4920-abfc-5d886dee6aa9)
 
+![NgRx_Scheme](https://github.com/luiscoco/AngularAdvance_NgRXDemo/assets/32194879/14a5dfdb-7c49-4ce3-b643-11417572824d)
+
 The following example more extensively utilizes the key concepts of store to manage the state of book list, and how the user can add a book to and remove it from their collection within an Angular component. Try the live example.
 
 1.Generate a new blank Angular project using VSCode. For now, let's start with adding a file named books.model.ts to reference different aspects of a book in the book list.
